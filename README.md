@@ -158,13 +158,13 @@ The fine-tuned FLAN-T5 advice model (~300 MB) is not stored in Git. See
 
 ## Team
 
-| Name | Role |
-|---|---|
-| Shafaat Bin Zaman | — |
-| Sadia Eva | — |
-| Zaima Hossain | — |
+| Name | 
+|---|
+| Shafaat Bin Zaman | 
+| Sadia Eva |
+| Zaima Hossain |
 
-Supervised under CSE327, North South University.
+Supervised under Dr. Md Adnan Arefeen sir in CSE327, North South University
 
 ## License
 
