@@ -1,0 +1,57 @@
+# ---------- Python / backend ----------
+.venv/
+.venv311/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---------- Secrets ----------
+.env
+*.env
+!.env.example
+serviceAccountKey.json
+google-services.json
+GoogleService-Info.plist
+app/lib/firebase_options.dart
+*.keystore
+*.jks
+key.properties
+
+# ---------- Model weights (too large for Git — see docs) ----------
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+drchatbot-model/
+checkpoint-*/
+
+# ---------- Flutter / Dart ----------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.iml
+.idea/
+.vscode/
+app/android/local.properties
+app/android/.gradle/
+app/android/gradle-wrapper.jar.lock
+app/ios/Flutter/Generated.xcconfig
+app/ios/Flutter/flutter_export_environment.sh
+app/ios/Pods/
+app/ios/.symlinks/
+app/macos/Pods/
+app/macos/Flutter/ephemeral/
+app/linux/flutter/ephemeral/
+app/windows/flutter/ephemeral/
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+desktop.ini

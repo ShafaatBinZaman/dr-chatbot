@@ -1,0 +1,15 @@
+# Dr. Chatbot — backend + ML training dependencies
+# Python 3.11 recommended
+flask==3.0.3
+flask-cors==4.0.1
+transformers==4.44.2
+torch==2.4.1
+datasets==2.21.0
+sentencepiece==0.2.0
+accelerate==0.34.2
+scikit-learn==1.5.2
+xgboost==2.1.1
+pandas==2.2.3
+numpy==1.26.4
+joblib==1.4.2
+tqdm==4.66.5

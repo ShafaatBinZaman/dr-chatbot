@@ -1,0 +1,191 @@
+id,user_text,disease_label,symptoms_list
+1,I have a runny nose and keep sneezing all day.,common_cold,"['runny nose', 'sneezing']"
+2,My throat feels sore and I'm coughing a little.,common_cold,"['throat', 'sore', 'coughing']"
+3,Mild headache and stuffy nose since morning.,common_cold,"['mild', 'headache', 'stuffy', 'nose']"
+4,I’m sneezing frequently and have a light fever.,common_cold,"['sneezing', 'light']"
+5,My nose is blocked and throat hurts mildly.,common_cold,"['nose', 'blocked', 'throat']"
+6,I’m coughing lightly and have slight headache.,common_cold,"['coughing', 'slight']"
+7,Feeling a bit feverish with sore throat.,common_cold,"['feverish', 'sore']"
+8,My nose keeps running and I can't stop sneezing.,common_cold,['nose']
+9,Mild cough and sore throat for two days.,common_cold,"['mild', 'cough', 'sore', 'throat', 'two']"
+10,I woke up with stuffy nose and headache.,common_cold,"['woke', 'stuffy', 'nose']"
+11,Slight fever and constant sneezing.,common_cold,"['slight', 'fever', 'constantnee']"
+12,Sore throat and runny nose since yesterday.,common_cold,"['sore', 'throat', 'runny', 'nose']"
+13,Having mild coughing along with sneezing.,common_cold,"['mild', 'coughing']"
+14,Feeling uncomfortable due to nasal congestion.,common_cold,"['uncomfortable', 'nasal']"
+15,My throat is itchy and I'm sneezing.,common_cold,"['throat', 'itchy', 'snee']"
+16,Light fever and headache today.,common_cold,"['light', 'fever', 'headache']"
+17,Nose is runny and throat slightly sore.,common_cold,"['nose', 'runny', 'throat']"
+18,Barely coughing but sneezing a lot.,common_cold,"['coughing', 'sneezing']"
+19,Mild headache and blocked nose.,common_cold,"['mild', 'headache']"
+20,I’m having flu-like symptoms but mild and mostly sneezing.,common_cold,"['flu - like symptoms', 'mild']"
+21,I have high fever and body aches since last night.,flu,"['high', 'fever', 'body ache']"
+22,My whole body feels weak and I’m coughing dryly.,flu,"['whole body', 'weak']"
+23,Severe headache with chills and fatigue.,flu,"['severe', 'headache', 'chill']"
+24,I feel extremely tired and feverish.,flu,"['tired', 'fever']"
+25,My throat hurts and I have body pain.,flu,"['throat', 'hurts']"
+26,I’ve been shivering and coughing with fever.,flu,"['shivering', 'coughing']"
+27,Feeling exhausted with high temperature.,flu,"['exhausted', 'high']"
+28,My muscles ache and I’ve lost appetite.,flu,"['muscles', 'ache']"
+29,Bad headache and sore throat with chills.,flu,"['bad', 'headache', 'sore', 'throat']"
+30,My fever is high and I feel really weak.,flu,"['fever', 'high']"
+31,Dry cough and chills since morning.,flu,"['dry', 'cough', 'chill']"
+32,I can't get up properly due to fatigue and fever.,flu,['fatigue']
+33,Pain all over the body and persistent cough.,flu,"['pain', 'body', 'persistent']"
+34,Sore throat and headache along with tiredness.,flu,"['sore', 'throat', 'headache', 'tired']"
+35,I'm shivering and have high fever.,flu,"['shivering', 'high']"
+36,Severe fatigue and dry cough today.,flu,"['severe', 'fatigue', 'dry', 'cough']"
+37,I have chills and muscle pain.,flu,"['chill', 'muscle']"
+38,Fever and body ache for two days.,flu,"['fever', 'body', 'ache', 'two']"
+39,My throat is irritated and I'm sweating.,flu,"['throat', 'irritated']"
+40,I feel too weak with fever and coughing.,flu,"['too', 'weak', 'fever']"
+41,I lost my sense of taste yesterday and have fever.,covid,"['lost', 'sense of taste']"
+42,Dry cough with fatigue for three days.,covid,"['dry', 'cough', 'fatigue', 'three']"
+43,I can't smell anything and feel tired.,covid,['smell anything']
+44,Breathing feels slightly difficult and plus fever.,covid,"['breathing', 'slightly', 'difficult']"
+45,My throat feels dry and coughing nonstop.,covid,"['throat', 'dry', 'coughing']"
+46,I’m feeling exhausted with fever and no sense of taste.,covid,"['exhausted', 'fever']"
+47,Mild headache and dry cough today.,covid,"['mild', 'headache', 'dry', 'cough']"
+48,Severe fatigue and shortness of breath.,covid,"['severe', 'fatigue', 'shortness of']"
+49,Can’t smell food and feeling feverish.,covid,"['smell food', 'fever']"
+50,I have dry cough and can't taste properly.,covid,"['dry', 'cough', 'can']"
+51,Mild fever and body weakness.,covid,"['mild', 'fever', 'body']"
+52,Breathing is harder than usual along with coughing.,covid,"['breathing', 'harder', 'usual']"
+53,Lost taste and slight fever.,covid,"['lost taste', 'slight']"
+54,I’m tired and keep coughing.,covid,['tired']
+55,Headache with dry cough.,covid,"['headache', 'dry']"
+56,I can’t smell soap and have fatigue.,covid,[]
+57,Fever and breathing discomfort.,covid,['fever']
+58,Constant coughing and weakness.,covid,"['constant', 'coughing']"
+59,No taste in food and continuous cough.,covid,"['taste in', 'food', 'continuous']"
+60,Mild fever and no smell and feeling drained.,covid,"['mild', 'fever', 'smell', 'feeling']"
+61,I have a really bad headache on one side.,migraine,['headache']
+62,Light makes my headache worse.,migraine,"['light', 'headache']"
+63,Feeling nauseous with severe head pain.,migraine,"['nauseous', 'severe', 'head']"
+64,My head hurts so badly and I'm dizzy.,migraine,"['head', 'hurts']"
+65,Vomited twice because of headache.,migraine,"['vomit', 'twice']"
+66,I can't tolerate noise during this headache.,migraine,[]
+67,My vision is blurry and head is hurting.,migraine,"['vision', 'blurry', 'head']"
+68,Sharp pain in head and feeling like vomiting.,migraine,"['sharp', 'pain', 'head']"
+69,I'm sensitive to light and sound right now.,migraine,"['sensitive', 'light']"
+70,Severe headache making me lie down.,migraine,"['severe', 'headache', 'lie']"
+71,I feel dizzy and my head is pounding.,migraine,"['dizzy', 'head']"
+72,Nausea along with intense headache.,migraine,"['nausea', 'intense']"
+73,I have a headache and threw up once.,migraine,"['headache', 'threw', 'up']"
+74,My head hurts more when lights are on.,migraine,"['head', 'hurts', 'more']"
+75,I’m very uncomfortable and dizzy with headache.,migraine,"['uncomfortable', 'dizzy']"
+76,Vomiting sensation with throbbing headache.,migraine,"['vomiting', 'throbbing']"
+77,I can't stand loud sounds due to head pain.,migraine,"['can', 'stand', 'loud sounds', 'head']"
+78,Sudden headache and dizziness.,migraine,"['sudden', 'headache', 'di']"
+79,Pain on right side of my head.,migraine,"['pain', 'right']"
+80,Severe headache causing discomfort and nausea.,migraine,"['severe', 'headache', 'discomfort']"
+81,I have burning pain in my stomach after eating.,gastritis,"['burning', 'pain', 'stomach']"
+82,Feeling nauseous and bloated.,gastritis,"['nauseous', 'b']"
+83,I vomited last night and abdomen hurts.,gastritis,"['vomit', 'last', 'abdomen']"
+84,My stomach feels full even after a small meal.,gastritis,"['stomach', 'full']"
+85,Indigestion and discomfort in upper abdomen.,gastritis,"['indigestion', 'discomfort']"
+86,Nausea plus stomach burning sensation.,gastritis,"['nausea', 'stomach']"
+87,I lost appetite and feel bloated.,gastritis,['lost appetite']
+88,Pain in upper abdomen after meals.,gastritis,"['pain', 'upper abdomen']"
+89,I'm vomiting and stomach feels irritated.,gastritis,"['vomiting', 'stomach']"
+90,Burning sensation in stomach area.,gastritis,"['burning', 'stomach']"
+91,I can't digest food properly.,gastritis,['digest']
+92,Feel discomfort and nausea after eating.,gastritis,"['discomfort', 'nausea']"
+93,Bloating and loss of appetite.,gastritis,['b']
+94,Mild pain in abdomen and indigestion.,gastritis,"['mild', 'pain', 'abdomen', 'indigesti']"
+95,Stomach burning with vomiting sensation.,gastritis,"['stomach', 'vomiting']"
+96,Abdominal pain and nausea since morning.,gastritis,"['abdominal', 'pain', 'nausea']"
+97,I feel full and bloated constantly.,gastritis,"['full', 'bloated']"
+98,Loss of appetite with abdominal discomfort.,gastritis,"['loss of appetite', 'abdominal']"
+99,Severe indigestion and stomach hurts.,gastritis,"['severe', 'indigestion', 'stomach']"
+100,Burning stomach and frequent nausea.,gastritis,"['stomach', 'frequent']"
+101,My heart keeps racing even while resting.,anxiety,"['heart', 'racing']"
+102,Feeling restless and sweating.,anxiety,['restless']
+103,I have trouble sleeping due to worry.,anxiety,['sleeping']
+104,I'm dizzy and anxious.,anxiety,['dizzy']
+105,Experiencing chest tightness with anxiety.,anxiety,"['chest', 'tightness']"
+106,I feel breathless without any exertion.,anxiety,['breathless']
+107,Hands shaking and heart beating fast.,anxiety,"['hands', 'shaking', 'heart', 'beating']"
+108,Can't relax and always nervous.,anxiety,"['can', 't relax']"
+109,Sweating and confused and feeling uneasy.,anxiety,"['sweating', 'confused']"
+110,My heart rate increases suddenly.,anxiety,"['heart rate', 'increases']"
+111,Difficulty sleeping and feeling tense.,anxiety,['sleeping']
+112,Feeling dizzy due to stress.,anxiety,['dizzy']
+113,I feel short of breath when anxious.,anxiety,['short of breath']
+114,My chest feels tight and I’m sweating.,anxiety,"['chest', 'tight']"
+115,Nervousness causing shakiness.,anxiety,['nervousness']
+116,Can't calm down and heart pounding.,anxiety,"['can', 't', 'calm']"
+117,Feeling dizzy and uneasy.,anxiety,['dizzy']
+118,Stress making it hard to breathe.,anxiety,['stress']
+119,My heartbeat is very fast and I feel restless.,anxiety,"['heartbeat', 'very fast']"
+120,Sweating and unable to relax.,anxiety,['sweating']
+121,Severe chest pain started suddenly.,heart_attack,"['severe', 'chest', 'pain']"
+122,Pain is radiating to my left arm.,heart_attack,['pain']
+123,I'm feeling short of breath along with chest pressure.,heart_attack,['short of breath']
+124,I started sweating heavily and chest hurts.,heart_attack,"['sweating', 'chest']"
+125,Feeling faint with chest pain.,heart_attack,"['faint', 'chest']"
+126,Chest discomfort and nausea.,heart_attack,"['chest', 'discomfort']"
+127,Intense pressure in the chest.,heart_attack,"['intense', 'pressure']"
+128,Left arm pain and difficulty breathing.,heart_attack,"['left arm', 'pain', 'difficulty']"
+129,Sudden fatigue with heart pain.,heart_attack,"['sudden', 'fatigue', 'heart']"
+130,I feel like I'm going to faint and chest hurting.,heart_attack,"['m', 'to', 'faint', 'chest']"
+131,Nausea with deep chest pain.,heart_attack,"['nausea', 'deep', 'chest']"
+132,Sweaty and tight feeling in the chest.,heart_attack,"['sweaty', 'tight']"
+133,Sharp pain moving from chest to jaw.,heart_attack,"['sharp', 'pain', 'chest']"
+134,I'm breathless and feeling weak.,heart_attack,"['breathless', 'weak']"
+135,Pain in chest getting worse over time.,heart_attack,"['pain', 'chest', 'worse']"
+136,I collapsed due to chest pressure.,heart_attack,"['collapsed', 'chest']"
+137,I'm sweating and arm feels heavy.,heart_attack,"['sweating', 'arm']"
+138,Severe fatigue with chest tightness.,heart_attack,"['severe', 'fatigue', 'chest', 'tight']"
+139,Feeling faint and sweating a lot.,heart_attack,"['faint', 'sweating']"
+140,Chest pain and breathing trouble suddenly.,heart_attack,"['chest', 'pain', 'breathing trouble']"
+141,I have persistent cough and high fever.,pneumonia,"['persistent', 'cough', 'high']"
+142,My chest hurts when I breathe.,pneumonia,"['chest', 'hurts']"
+143,Shortness of breath with fever.,pneumonia,['shortness of breath']
+144,Coughing non-stop and feeling weak.,pneumonia,"['coughing', 'non', 'stop']"
+145,I have chills and breathing difficulty.,pneumonia,"['chill', 'breathing']"
+146,Fatigue and sharp chest pain.,pneumonia,"['fatigue', 'sharp', 'chest']"
+147,Sweating and coughing with fever.,pneumonia,"['sweating', 'coughing']"
+148,I’m coughing up mucus.,pneumonia,['coughing']
+149,Can't breathe properly and body weak.,pneumonia,"['can', 't breathe']"
+150,High fever with constant cough.,pneumonia,"['high', 'fever', 'constant']"
+151,Breathing hurt and chest discomfort.,pneumonia,"['breathing', 'chest']"
+152,Chills and exhaustion.,pneumonia,['chill']
+153,Severe fatigue and breathing issues.,pneumonia,"['severe', 'fatigue', 'breathing']"
+154,Coughing and chest feels painful.,pneumonia,"['coughing', 'chest']"
+155,Fever with sweating all night.,pneumonia,"['fever', 'sweating']"
+156,Weakness with shortness of breath.,pneumonia,"['weakness', 'short']"
+157,Severe cough and body shaking.,pneumonia,"['severe', 'cough', 'body']"
+158,Hard to take deep breaths.,pneumonia,[]
+159,Fever and chest tightness.,pneumonia,"['fever', 'chest', 'tight']"
+160,Fatigue plus pain on breathing.,pneumonia,"['fatigue', 'pain']"
+161,A burning sensation when I urinate.,uti,"['burning sensation', 'ur']"
+162,Going to the toilet too frequently.,uti,['going to the toilet']
+163,Pain in lower abdomen with urination.,uti,"['pain', 'lower abdomen']"
+164,My urine smells strange.,uti,['urine']
+165,Feeling tired and having fever.,uti,['tired']
+166,I pee very often and it hurts.,uti,['pee']
+167,Lower abdominal discomfort while urinating.,uti,"['lower abdominal', 'discomfort']"
+168,Mild fever with painful urination.,uti,"['mild', 'fever', 'painful']"
+169,Urine looks cloudy lately.,uti,"['urine', 'cloudy']"
+170,I have urge to urinate frequently.,uti,['urinate']
+171,Feel exhausted and stomach hurts.,uti,"['exhausted', 'stomach']"
+172,Burning and discomfort while peeing.,uti,"['burning', 'discomfort', 'pee']"
+173,Lower stomach pain since yesterday.,uti,"['lower', 'stomach', 'pain']"
+174,I feel fatigue and mild fever.,uti,"['fatigue', 'mild']"
+175,Urination very frequent and painful.,uti,"['urination', 'frequent']"
+176,Strange smell in urine.,uti,"['strange', 'smell']"
+177,Abdomen pain and tiredness.,uti,"['abdomen', 'pain', 'tired']"
+178,I have fever and urination discomfort.,uti,"['fever', 'urination']"
+179,Lower pain and cloudy urine.,uti,"['lower', 'pain', 'cloudy']"
+180,Peeing hurts and I'm exhausted.,uti,['peeing']
+181,Feeling tired all day.,unknown,['tired']
+182,I am unwell but can't explain exactly.,unknown,['unwell']
+183,General weakness without any major symptom.,unknown,['general weakness']
+184,Just not feeling right.,unknown,[]
+185,Slight discomfort but don’t know where.,unknown,"['slight', 'discomfort']"
+186,Unusual fatigue without pain.,unknown,"['unusual', 'fatigue']"
+187,Feeling a bit off and no specific symptoms.,unknown,['off']
+188,I’m unwell but can't identify why.,unknown,['unwell']
+189,Feeling low energy.,unknown,['low']
+190,Can't point to any pain but not okay.,unknown,['pain']

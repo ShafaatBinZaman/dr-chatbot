@@ -1,0 +1,45 @@
+name: dr_chatbot
+description: "A new Flutter project for Dr. Chatbot."
+
+publish_to: 'none'  # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase dependencies
+  firebase_core: ^1.10.6  # Initialize Firebase
+  firebase_auth: ^3.3.4  # Firebase Authentication
+  cloud_firestore: ^3.1.5  # Firestore for database
+
+  # Cupertino Icons for iOS-style icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Linting for better coding practices
+  flutter_lints: ^5.0.0
+
+# Flutter packages section
+flutter:
+  uses-material-design: true  # Enable Material Design widgets
+
+  # Declare the assets used in your project (add logo and images here)
+  assets:
+    - assets/images/dr_chatbot_logo.png  # Add your Dr. Chatbot logo here
+
+  # If you need custom fonts, you can include them here (optional)
+  # fonts:
+  #   - family: CustomFont
+  #     fonts:
+  #       - asset: fonts/CustomFont-Regular.ttf
+  #       - asset: fonts/CustomFont-Bold.ttf
+  #         weight: 700
+

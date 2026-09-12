@@ -1,0 +1,200 @@
+id,user_text,disease_label
+1,I have a runny nose and keep sneezing all day.,common_cold
+2,My throat feels sore and I'm coughing a little.,common_cold
+3,Mild headache and stuffy nose since morning.,common_cold
+4,I’m sneezing frequently and have a light fever.,common_cold
+5,My nose is blocked and throat hurts mildly.,common_cold
+6,I’m coughing lightly and have slight headache.,common_cold
+7,Feeling a bit feverish with sore throat.,common_cold
+8,My nose keeps running and I can't stop sneezing.,common_cold
+9,Mild cough and sore throat for two days.,common_cold
+10,I woke up with stuffy nose and headache.,common_cold
+11,Slight fever and constant sneezing.,common_cold
+12,Sore throat and runny nose since yesterday.,common_cold
+13,Having mild coughing along with sneezing.,common_cold
+14,Feeling uncomfortable due to nasal congestion.,common_cold
+15,My throat is itchy and I'm sneezing.,common_cold
+16,Light fever and headache today.,common_cold
+17,Nose is runny and throat slightly sore.,common_cold
+18,Barely coughing but sneezing a lot.,common_cold
+19,Mild headache and blocked nose.,common_cold
+20,I’m having flu-like symptoms but mild and mostly sneezing.,common_cold
+
+21,I have high fever and body aches since last night.,flu
+22,My whole body feels weak and I’m coughing dryly.,flu
+23,Severe headache with chills and fatigue.,flu
+24,I feel extremely tired and feverish.,flu
+25,My throat hurts and I have body pain.,flu
+26,I’ve been shivering and coughing with fever.,flu
+27,Feeling exhausted with high temperature.,flu
+28,My muscles ache and I’ve lost appetite.,flu
+29,Bad headache and sore throat with chills.,flu
+30,My fever is high and I feel really weak.,flu
+31,Dry cough and chills since morning.,flu
+32,I can't get up properly due to fatigue and fever.,flu
+33,Pain all over the body and persistent cough.,flu
+34,Sore throat and headache along with tiredness.,flu
+35,I'm shivering and have high fever.,flu
+36,Severe fatigue and dry cough today.,flu
+37,I have chills and muscle pain.,flu
+38,Fever and body ache for two days.,flu
+39,My throat is irritated and I'm sweating.,flu
+40,I feel too weak with fever and coughing.,flu
+
+41,I lost my sense of taste yesterday and have fever.,covid
+42,Dry cough with fatigue for three days.,covid
+43,I can't smell anything and feel tired.,covid
+44,Breathing feels slightly difficult and plus fever.,covid
+45,My throat feels dry and coughing nonstop.,covid
+46,I’m feeling exhausted with fever and no sense of taste.,covid
+47,Mild headache and dry cough today.,covid
+48,Severe fatigue and shortness of breath.,covid
+49,Can’t smell food and feeling feverish.,covid
+50,I have dry cough and can't taste properly.,covid
+51,Mild fever and body weakness.,covid
+52,Breathing is harder than usual along with coughing.,covid
+53,Lost taste and slight fever.,covid
+54,I’m tired and keep coughing.,covid
+55,Headache with dry cough.,covid
+56,I can’t smell soap and have fatigue.,covid
+57,Fever and breathing discomfort.,covid
+58,Constant coughing and weakness.,covid
+59,No taste in food and continuous cough.,covid
+60,Mild fever and no smell and feeling drained.,covid
+
+61,I have a really bad headache on one side.,migraine
+62,Light makes my headache worse.,migraine
+63,Feeling nauseous with severe head pain.,migraine
+64,My head hurts so badly and I'm dizzy.,migraine
+65,Vomited twice because of headache.,migraine
+66,I can't tolerate noise during this headache.,migraine
+67,My vision is blurry and head is hurting.,migraine
+68,Sharp pain in head and feeling like vomiting.,migraine
+69,I'm sensitive to light and sound right now.,migraine
+70,Severe headache making me lie down.,migraine
+71,I feel dizzy and my head is pounding.,migraine
+72,Nausea along with intense headache.,migraine
+73,I have a headache and threw up once.,migraine
+74,My head hurts more when lights are on.,migraine
+75,I’m very uncomfortable and dizzy with headache.,migraine
+76,Vomiting sensation with throbbing headache.,migraine
+77,I can't stand loud sounds due to head pain.,migraine
+78,Sudden headache and dizziness.,migraine
+79,Pain on right side of my head.,migraine
+80,Severe headache causing discomfort and nausea.,migraine
+
+81,I have burning pain in my stomach after eating.,gastritis
+82,Feeling nauseous and bloated.,gastritis
+83,I vomited last night and abdomen hurts.,gastritis
+84,My stomach feels full even after a small meal.,gastritis
+85,Indigestion and discomfort in upper abdomen.,gastritis
+86,Nausea plus stomach burning sensation.,gastritis
+87,I lost appetite and feel bloated.,gastritis
+88,Pain in upper abdomen after meals.,gastritis
+89,I'm vomiting and stomach feels irritated.,gastritis
+90,Burning sensation in stomach area.,gastritis
+91,I can't digest food properly.,gastritis
+92,Feel discomfort and nausea after eating.,gastritis
+93,Bloating and loss of appetite.,gastritis
+94,Mild pain in abdomen and indigestion.,gastritis
+95,Stomach burning with vomiting sensation.,gastritis
+96,Abdominal pain and nausea since morning.,gastritis
+97,I feel full and bloated constantly.,gastritis
+98,Loss of appetite with abdominal discomfort.,gastritis
+99,Severe indigestion and stomach hurts.,gastritis
+100,Burning stomach and frequent nausea.,gastritis
+
+101,My heart keeps racing even while resting.,anxiety
+102,Feeling restless and sweating.,anxiety
+103,I have trouble sleeping due to worry.,anxiety
+104,I'm dizzy and anxious.,anxiety
+105,Experiencing chest tightness with anxiety.,anxiety
+106,I feel breathless without any exertion.,anxiety
+107,Hands shaking and heart beating fast.,anxiety
+108,Can't relax and always nervous.,anxiety
+109,Sweating and confused and feeling uneasy.,anxiety
+110,My heart rate increases suddenly.,anxiety
+111,Difficulty sleeping and feeling tense.,anxiety
+112,Feeling dizzy due to stress.,anxiety
+113,I feel short of breath when anxious.,anxiety
+114,My chest feels tight and I’m sweating.,anxiety
+115,Nervousness causing shakiness.,anxiety
+116,Can't calm down and heart pounding.,anxiety
+117,Feeling dizzy and uneasy.,anxiety
+118,Stress making it hard to breathe.,anxiety
+119,My heartbeat is very fast and I feel restless.,anxiety
+120,Sweating and unable to relax.,anxiety
+
+121,Severe chest pain started suddenly.,heart_attack
+122,Pain is radiating to my left arm.,heart_attack
+123,I'm feeling short of breath along with chest pressure.,heart_attack
+124,I started sweating heavily and chest hurts.,heart_attack
+125,Feeling faint with chest pain.,heart_attack
+126,Chest discomfort and nausea.,heart_attack
+127,Intense pressure in the chest.,heart_attack
+128,Left arm pain and difficulty breathing.,heart_attack
+129,Sudden fatigue with heart pain.,heart_attack
+130,I feel like I'm going to faint and chest hurting.,heart_attack
+131,Nausea with deep chest pain.,heart_attack
+132,Sweaty and tight feeling in the chest.,heart_attack
+133,Sharp pain moving from chest to jaw.,heart_attack
+134,I'm breathless and feeling weak.,heart_attack
+135,Pain in chest getting worse over time.,heart_attack
+136,I collapsed due to chest pressure.,heart_attack
+137,I'm sweating and arm feels heavy.,heart_attack
+138,Severe fatigue with chest tightness.,heart_attack
+139,Feeling faint and sweating a lot.,heart_attack
+140,Chest pain and breathing trouble suddenly.,heart_attack
+
+141,I have persistent cough and high fever.,pneumonia
+142,My chest hurts when I breathe.,pneumonia
+143,Shortness of breath with fever.,pneumonia
+144,Coughing non-stop and feeling weak.,pneumonia
+145,I have chills and breathing difficulty.,pneumonia
+146,Fatigue and sharp chest pain.,pneumonia
+147,Sweating and coughing with fever.,pneumonia
+148,I’m coughing up mucus.,pneumonia
+149,Can't breathe properly and body weak.,pneumonia
+150,High fever with constant cough.,pneumonia
+151,Breathing hurt and chest discomfort.,pneumonia
+152,Chills and exhaustion.,pneumonia
+153,Severe fatigue and breathing issues.,pneumonia
+154,Coughing and chest feels painful.,pneumonia
+155,Fever with sweating all night.,pneumonia
+156,Weakness with shortness of breath.,pneumonia
+157,Severe cough and body shaking.,pneumonia
+158,Hard to take deep breaths.,pneumonia
+159,Fever and chest tightness.,pneumonia
+160,Fatigue plus pain on breathing.,pneumonia
+
+161,A burning sensation when I urinate.,uti
+162,Going to the toilet too frequently.,uti
+163,Pain in lower abdomen with urination.,uti
+164,My urine smells strange.,uti
+165,Feeling tired and having fever.,uti
+166,I pee very often and it hurts.,uti
+167,Lower abdominal discomfort while urinating.,uti
+168,Mild fever with painful urination.,uti
+169,Urine looks cloudy lately.,uti
+170,I have urge to urinate frequently.,uti
+171,Feel exhausted and stomach hurts.,uti
+172,Burning and discomfort while peeing.,uti
+173,Lower stomach pain since yesterday.,uti
+174,I feel fatigue and mild fever.,uti
+175,Urination very frequent and painful.,uti
+176,Strange smell in urine.,uti
+177,Abdomen pain and tiredness.,uti
+178,I have fever and urination discomfort.,uti
+179,Lower pain and cloudy urine.,uti
+180,Peeing hurts and I'm exhausted.,uti
+
+181,Feeling tired all day.,unknown
+182,I am unwell but can't explain exactly.,unknown
+183,General weakness without any major symptom.,unknown
+184,Just not feeling right.,unknown
+185,Slight discomfort but don’t know where.,unknown
+186,Unusual fatigue without pain.,unknown
+187,Feeling a bit off and no specific symptoms.,unknown
+188,I’m unwell but can't identify why.,unknown
+189,Feeling low energy.,unknown
+190,Can't point to any pain but not okay.,unknown
